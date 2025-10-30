@@ -18,7 +18,7 @@
 
 ## 📊 Информация о датасете
 **Название:** Student Stress Monitoring Dataset  
-**Источник:** [Kaggle](https://www.kaggle.com)  
+**Источник:** [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets))  
 **Описание:** результаты анкетирования 1100 студентов в возрасте от 18 до 21 года, собранные через онлайн-опрос Google Forms.  
 
 **Характеристики:**
